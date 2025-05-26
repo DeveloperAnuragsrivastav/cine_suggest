@@ -1,0 +1,4 @@
+1. react + vite + tailwind css
+2. axios for api
+3. lucide-react for icon
+4. react-router-dom for page link.
